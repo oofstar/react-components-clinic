@@ -13,7 +13,7 @@ const heros = {
         name: "Wonder Woman",
         powers: "Super-strength, blessings from the gods",
         trueIdentity: "Diana Prince",
-        image: "http://assets.vogue.com/photos/5891851e8c64075803ad0cc6/master/pass/00-holding-wonder-woman.jpg",
+        image: "http://www.writeups.org/wp-content/uploads/Wonder-Woman-DC-Comics-Gail-Simone-Diana-Themyscira-h.jpg",
       },
       {
         id: 3,
@@ -43,7 +43,7 @@ const heros = {
         id: 5,
         name: "Iron Man",
         powers: "High-tech suit, intelligence",
-        image: "http://vignette3.wikia.nocookie.net/p__/images/5/5a/Iron_Man_Render.png/revision/latest?cb=20140305140425&path-prefix=protagonist",
+        image: "https://vignette4.wikia.nocookie.net/fictional-battle-omniverse/images/e/e7/Iron_Man_Marvel_Comics.png/revision/latest?cb=20150813151141",
         trueIdentity: "Tony Stark"
       },
       {
@@ -63,7 +63,7 @@ const heros = {
       {
         id: 8,
         name: "Captain America",
-        powers: "Enhanced strength, speed",
+        powers: "Enhanced strength and speed",
         image: "http://images.clipartpanda.com/captain-america-clipart-9ipzKr9AT.png",
         trueIdentity: "Steve Rogers"
       },

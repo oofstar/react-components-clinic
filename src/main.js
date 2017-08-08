@@ -6,5 +6,6 @@ import heros from './constants/data';
 import App from './components/app'
 
 ReactDOM.render(
-  <App heros={heros}/>, document.getElementById('app')
+  <App heros={heros}/>,
+  document.getElementById('app')
 );
